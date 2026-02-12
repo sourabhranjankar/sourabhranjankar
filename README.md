@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhranjankar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-iamsourabh.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.iamsourabh.com)
-[![Email](https://img.shields.io/badge/Email-sourabh@workwebmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sourabhranjankar@outlook.com)
+[![Email](https://img.shields.io/badge/Email-sourabhranjankar@outlook..com-red?style=flat&logo=gmail&logoColor=white)](mailto:sourabhranjankar@outlook.com)
 
 ---
 
