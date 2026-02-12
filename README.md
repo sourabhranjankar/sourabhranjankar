@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhranjankar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-iamsourabh.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.iamsourabh.com)
-[![Email](https://img.shields.io/badge/Email-sourabh@workwebmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sourabh@workwebmail.com)
+[![Email](https://img.shields.io/badge/Email-sourabh@workwebmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sourabhranjankar@outlook.com)
 
 ---
 
@@ -29,13 +29,13 @@ My expertise spans from **backend microservices and DevOps automation** to **AI-
 ---
 
 ### 🏢 Professional Experience
-**💼 Fifth Third Bancorp (USA)** – Full Stack Developer  
+**💼 Comerica Bank (USA)** – Full Stack Developer  
 *Oct 2024 – Present*  
-- Engineered **KYC onboarding dashboards** (React + Spring Boot) integrated with LexisNexis APIs.  
-- Optimized **AWS RDS performance** via partitioning and caching, improving responsiveness by 40%.  
-- Automated **CI/CD** using CloudFormation, CodePipeline, and blue/green ECS deployments.  
+- Engineered transaction review and account monitoring services using React and Spring Boot in a microservices architecture.
+- Redesigned synchronous APIs into event driven pipelines using AWS SQS, reducing timeout failures by 40%.
+- Optimized AWS RDS performance through indexing and partition strategies, improving high volume report execution by 40%. 
 
-**💼 Federal Express (FedEx, AMEA)** – Full Stack Developer  
+**💼 Blue Dart Express (FedEx, AMEA)** – Software Engineer  
 *Jan 2021 – Jul 2023*  
 - Built **shipment tracking modules** for 20+ APAC/EMEA countries using Angular + Spring Boot.  
 - Integrated **real-time tracking** via Kafka, WebSockets, and RxJS for live updates.  
