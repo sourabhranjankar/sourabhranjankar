@@ -1,7 +1,7 @@
 # Hi there, I'm Sourabh Kar 👋  
 ### Data Engineer | Real-time Pipelines | Snowflake • Databricks • AWS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhranjankar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhkde/)
 [![Email](https://img.shields.io/badge/Email-sourabh.kar%40workwebmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sourabh.kar@workwebmail.com)
 ![Location](https://img.shields.io/badge/Dallas%2C%20TX-555?style=flat)
 
